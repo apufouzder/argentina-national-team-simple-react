@@ -1,0 +1,12 @@
+.select-cart {
+    background: #dc3545;
+    color: white;
+    border-radius: 5px;
+    position: sticky;
+    margin: 170px 16px;
+    top: 81px;
+}
+h6 img {
+    border-radius: 50%;
+    width: 35px;
+}
